@@ -22,4 +22,4 @@
 
 ## GitHub統計
 
-![Moriya-Rena的GitHub統計數據](https://github-readme-stats.vercel.app/api?username=Moriya-Rena&show_icons=true&theme=radical)
+![Moriya-Rena的GitHub統計數據](https://github-readme-stats.vercel.app/api?username=Rena-Moriya&show_icons=true&theme=radical)
