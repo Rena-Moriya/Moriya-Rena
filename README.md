@@ -24,4 +24,4 @@
 
 ![Moriya-Rena的GitHub統計數據](https://github-readme-stats.vercel.app/api?username=Rena-Moriya&show_icons=true&theme=calm)
 
-![Moriya-Rena的GitHub統計數據] (https://github-readme-stats.vercel.app/api/top-langs/?username=Rena-Moriya&theme=calm)
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rena-Moriya&theme=calm&langs_count=6&layout=compact" />
